@@ -15,8 +15,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"jccr.sandbox",
-				"ms-vsliveshare.vsliveshare"
+				"ms-vsliveshare.vsliveshare",
+				"bianxianyang.htmlplay"
 			]
 		}
 	}
